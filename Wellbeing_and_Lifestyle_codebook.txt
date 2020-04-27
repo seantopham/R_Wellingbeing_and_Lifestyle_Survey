@@ -1,0 +1,68 @@
+Wellbeing and Lifestyle Survey Codebook
+
+
+FRUITS_VEGGIES
+HOW MANY FRUITS OR VEGETABLES DO YOU EAT EVERYDAY? * ► In a typical day, averaging workdays and weekends. Select 5 if more than 5.
+
+DAILY_STRESS
+HOW MUCH STRESS DO YOU TYPICALLY EXPERIENCE EVERYDAY? * ► At work or at home, due to the environment (noise, pollution, insecurity...), your co-workers or boss, or because of tragic events such as divorce, job loss, serious illness, loss of family or friends,... ► In average over 12 months.
+
+PLACES_VISTED
+HOW MANY NEW PLACES DO YOU VISIT? * ► Over a period of 12 months. Include new states, new cities as well as museum, places of interest and parks in your neighborhood.
+
+CORE_CIRCLE
+HOW MANY PEOPLE ARE VERY CLOSE TO YOU? * ► i.e. close family and friends ready to provide you with a long-term unconditional support.
+
+SUPPORTING_OTHERS
+HOW MANY PEOPLE DO YOU HELP ACHIEVE A BETTER LIFE? * ► A reflection of your altruism or selflessness (see the TED video from Matthieu Ricard 'How to let altruism be your guide') ► e.g.: caring for your family, actively supporting a friend, mentoring, coaching, developing or promoting a co-worker, ...► Over a period of 12 months.
+
+SOCIAL_NETWORK
+WITH HOW MANY PEOPLE DO YOU INTERACT WITH DURING A TYPICAL DAY? * ► True interactions and dialogues at home, at work, at the gym, ... ► Average of workdays and weekends
+
+ACHIEVEMENT
+HOW MANY REMARKABLE ACHIEVEMENTS ARE YOU PROUD OF? * ► Over the last 12 months, personal achievements known to your family, close friends or co-workers such as: running a marathon or important race, birth, successful kids, new house or major renovation, major success at work, opening a new business, ...
+
+DONATION
+HOW MANY TIMES DO YOU DONATE YOUR TIME OR MONEY TO GOOD CAUSES? * ► Over a period of 12 months. Include financial donation, your time contribution, fundraising, volunteering, serving your country and the poor, ...
+
+BMI_RANGE
+WHAT IS YOUR BODY MASS INDEX (BMI) RANGE? * ► Your body mass in kg divided by the square of your height in meters ► Check the online BMI calculator such as www.cdc.gov/healthyweight/assessing/bmi/index.html. ► For instance, an adult of 6 feet and 184 pounds has a BMI of 25.
+
+TODO_COMPLETED
+HOW WELL DO YOU COMPLETE YOUR WEEKLY TO-DO LISTS? * ► Include your weekly goals, work- and personal-related tasks. ► On a scale of 0 = not at all to 10 = very well.
+
+FLOW
+IN A TYPICAL DAY, HOW MANY HOURS DO YOU EXPERIENCE "FLOW"? * ► 'Flow' is defined as the mental state, in which you are fully immersed in performing an activity. You then experience a feeling of energized focus, full involvement, and enjoyment in the process of this activity. ►Watch the youtube video from Mihaly Csikszentmihalyi "Flow, the secret to happiness"
+
+DAILY_STEPS
+HOW MANY STEPS (IN THOUSANDS) DO YOU TYPICALLY WALK EVERYDAY? * ► Thousand steps, daily average over multiple days including work days and week-end.
+
+LIVE_VISION
+FOR HOW MANY YEARS AHEAD IS YOUR LIFE VISION VERY CLEAR FOR? * ► For instance, illustrated in a vision board, detailed in a personal journal or openly discussed with your spouse or close friends.
+
+SLEEP_HOURS
+ABOUT HOW LONG DO YOU TYPICALLY SLEEP? * ► Over the course of a typical working week, including week-end
+
+LOST_VACATION
+HOW MANY DAYS OF VACATION DO YOU TYPICALLY LOSE EVERY YEAR ? * ► Unused vacation days, lost or carried forward into the following year. ►Or because of work stress during your vacation.
+
+DAILY_SHOUTING
+HOW OFTEN DO YOU SHOUT OR SULK AT SOMEBODY? * ►In a typical week. ► Expressing your negative emotions in an active or passive manner.
+
+SUFFICIENT_INCOME
+HOW SUFFICIENT IS YOUR INCOME TO COVER BASIC LIFE EXPENSES? * ► Such as the costs of housing, food, health care, car and education.
+
+PERSONAL_AWARDS
+HOW MANY RECOGNITIONS HAVE YOU RECEIVED IN YOUR LIFE? * ► Significant public recognitions validating a personal level of expertise and engagement ► E.g.: diploma, degree, certificate, accreditation, award, prize, published book, presentation at major conference, medals, cups, titles...
+
+TIME_FOR_PASSION
+HOW MANY HOURS DO YOU SPEND EVERYDAY DOING WHAT YOU ARE PASSIONATE ABOUT? * ► Daily hours spent doing what you are passionate and dreaming about, and/or contributing to a greater cause: health, education, peace, society development, ...
+
+DAILY_MEDITATION
+IN A TYPICAL WEEK, HOW MANY TIMES DO YOU HAVE THE OPPORTUNITY TO THINK ABOUT YOURSELF? * ► Include meditation, praying and relaxation activities such as fitness, walking in a park or lunch breaks.
+
+AGE
+
+GENDER
+
+
